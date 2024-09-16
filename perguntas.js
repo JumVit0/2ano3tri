@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz "olá, como posso ajudar?" em Inglês?',
-    'Hello, how can i help you?'
+    'Como se diz "olá, como posso ajudar hoje?" em Inglês?',
+    'Hello, how can i help you today?'
 )
